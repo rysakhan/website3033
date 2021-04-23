@@ -1,0 +1,72 @@
+﻿body
+{
+background-color: #F4F1DE;
+color: #3D405B;
+ text-align: left;
+}
+
+img{
+	border-radius: 20%
+}
+
+ul
+{
+display: block;
+list-style-type:none;
+margin: 0;
+padding:0;
+width: 60px;
+}
+
+li b
+{
+	display:block;
+	color: #3D405B;
+	padding: 8px 16px;
+}
+
+ul1 {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:#3D405B;
+}
+
+li {
+  float: left;
+}
+
+
+
+.header {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 20px;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #E07A5F
+}
+
+/* Navbar links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Links - change color on hover */
+.topnav a:hover {
+  background-color: #F2CC8F;
+  color: #3D405B;
+}
+
+.linkedin a:hover {
+
+}
+
